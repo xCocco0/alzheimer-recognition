@@ -1,4 +1,4 @@
-id,sex,age,height,weight,Education,hand,mmse,cdr,dx1,dx2,dx3,dx4,dx5,eTIV,brainVol,nWBV,ventricleVol,ventricleRatio,hcVol,hcRatio
+id,sex,age,height,weight,education,hand,mmse,cdr,dx1,dx2,dx3,dx4,dx5,eTIV,brainVol,nWBV,ventricleVol,ventricleRatio,hcVol,hcRatio
 OAS30001,0,65,1626,76,12,1,30,0,"Cognitively normal",.,.,.,.,1196994,750748,0.62719,15583,0.01302,7064,0.0059
 OAS30002,1,67,1600,71,18,1,29,0,"Cognitively normal",.,.,.,.,1727246,1042775,0.60372,41460,0.024,8860,0.00513
 OAS30003,0,58,1702,73,16,1,30,0,"Cognitively normal","Remote B-12 Deficiency",.,.,.,1426999,914549,0.64089,17486,0.01225,8223,0.00576
